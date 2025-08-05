@@ -1,1 +1,2 @@
-My First Git Project
+# My First Git Project
+Git Sample Project
